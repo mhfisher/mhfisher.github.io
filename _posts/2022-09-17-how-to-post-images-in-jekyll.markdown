@@ -4,8 +4,6 @@ title:  "How to post images in Jekyll markdown"
 date:   2022-09-17 00:00:00 -0400
 categories: Tips
 ---
-# How to post images in Jekyll markdown
-
 I had trouble including a png plot in my first Jekyll post, so I'll post the resolution steps here as a hello-world post and to save others the headache:
 
 1. Make a directory `assets` at the root of your github.io directory.

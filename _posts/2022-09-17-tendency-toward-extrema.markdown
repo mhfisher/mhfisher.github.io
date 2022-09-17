@@ -4,8 +4,6 @@ title:  "Tendency toward extrema from personalization [draft]"
 date:   2022-09-17 00:24:34 -0400
 categories: Notebooks
 ---
-# Tendency toward extrema from personalization
-
 ## (Rough Draft) September 2022
 
 This notebook presents a simple model of the tendency towards extreme drift from increasingly personalized interest groups. Consider a simple game with two objects, publications and readers. Readers have a preference scalar, and they naturally gravitate towards the publication that most closely matches their preference. The publications, to stay in business, are pulled toward their readers' preferences.
