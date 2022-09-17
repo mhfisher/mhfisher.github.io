@@ -132,7 +132,7 @@ _plot(end_readers, end_publications)
 
 
     
-![png](/assets/images/output_2_1.png)
+![plot_2_1](/assets/images/output_2_1.png)
     
 
 
@@ -148,9 +148,8 @@ _plot(end_readers, end_publications)
     ---------------
 
 
-
     
-![png](/assets/images/output_2_3.png)
+![plot_2_3](/assets/images/output_2_3.png)
     
 
 
