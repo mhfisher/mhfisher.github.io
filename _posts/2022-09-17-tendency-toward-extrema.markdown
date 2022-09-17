@@ -99,7 +99,7 @@ plt.show()
 ```
 
 
-![plot_P_2_stable](/assets/images/output_3_0.png){:class="img-responsive"}
+![plot_P_2_stable](/assets/images/output_3_0.png)
     
 
 
