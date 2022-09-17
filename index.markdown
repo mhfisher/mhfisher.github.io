@@ -4,3 +4,4 @@
 
 layout: home
 ---
+Software engineer based in Oakland, CA. Interested in climate modeling and network theory.
