@@ -3,6 +3,7 @@ layout: post
 title:  Tendency toward extrema from personalization [draft]
 date:   2022-09-17 12:00:00 -0400
 categories: Notebooks
+classes: wide
 ---
 ## (Rough Draft) September 2022
 
