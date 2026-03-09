@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am a graduate student at UC San Diego, where I am fortunate to be advised by [Prof. Rose Yu](https://roseyu.com/). I have researched LLM time-series reasoning and agentic AI systems for weather science. My current research work focuses on **long-term neural weather forecasting**.
+I am a graduate student at UC San Diego, where I am fortunate to be advised by [Prof. Rose Yu](https://roseyu.com/). I have researched LLM time-series reasoning and agentic AI systems for weather science. My current research focuses on **long-term neural weather forecasting**.
 
 Previously I earned my Bachelor's degree in computer science and mathematics at UC Berkeley. I then spent five years as a software engineer at The Voleon Group, an ML-focused quantitative hedge fund. At UCSD, my graduate coursework has covered both theoretical and applied machine learning.
 
