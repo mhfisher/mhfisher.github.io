@@ -1,0 +1,39 @@
+---
+---
+
+@import "jekyll-theme-minimal";
+
+body {
+  font-size: 16px;
+}
+
+h1 {
+  font-size: 32px;
+}
+
+h2 {
+  font-size: 22px;
+}
+
+.pub {
+  display: flex;
+  gap: 16px;
+  margin-bottom: 24px;
+}
+
+.pub img {
+  width: 160px;
+  height: 100px;
+  object-fit: cover;
+  border: 1px solid #e5e5e5;
+  flex-shrink: 0;
+}
+
+.bottom-links {
+  margin-top: 40px;
+  border-top: 1px solid #e5e5e5;
+  padding-top: 12px;
+  display: flex;
+  justify-content: space-between;
+  font-size: 16px;
+}
