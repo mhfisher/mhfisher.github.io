@@ -8,6 +8,18 @@ Previously I earned my Bachelor's degree in computer science and mathematics at 
 
 I am completing my MS in CSE in June 2026, and I am open to industry **research** and **research engineering** roles.
 
+## News
+
+<div class="pub">
+  <a href="https://today.ucsd.edu/story/new-ai-agent-could-transform-how-scientists-study-weather-and-climate">
+    <img src="/assets/images/ucsd_today_weather.png" alt="UCSD Today article thumbnail">
+  </a>
+  <div>
+    <a href="https://today.ucsd.edu/story/new-ai-agent-could-transform-how-scientists-study-weather-and-climate"><strong>Zephyrus: Agentic AI for Weather Science</strong></a><br>
+    Happy to have our work featured in UC San Diego Today!
+  </div>
+</div>
+
 <!--
 ## Publications
 
