@@ -10,7 +10,7 @@ Previously I earned my Bachelor's degree in computer science and mathematics at 
 
 I am open to 2027 industry **research** and **research engineering** roles.
 
-Contact: m1fisher {at} ucsd {dot} edu
+**Contact:** m1fisher {at} ucsd {dot} edu
 
 ## News
 
