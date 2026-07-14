@@ -6,11 +6,11 @@ I am a Research Associate at UC San Diego HDSI working with [Prof. Duncan Watson
 
 In June 2026 I completed my MS in computer science at UC San Diego, where I was fortunate to be advised by Prof. Rose Yu. My research included LLM time-series reasoning, agentic AI systems for weather science, and long-term neural weather forecasting.
 
-Previously I earned my Bachelor's degree in computer science and mathematics at UC Berkeley. I then spent five years as a software engineer at The Voleon Group, an ML-focused quantitative hedge fund. At UCSD, my graduate coursework has covered both theoretical and applied machine learning.
+Previously I earned my Bachelor's degree in computer science and mathematics at UC Berkeley. I then spent five years as a software engineer at The Voleon Group, an ML-focused quantitative hedge fund. At UCSD, my graduate coursework covered both theoretical and applied machine learning.
 
 I am open to 2027 industry **research** and **research engineering** roles.
 
-**Contact:** m1fisher {at} ucsd {dot} edu
+Contact: m1fisher {at} ucsd {dot} edu
 
 ## News
 
